@@ -1,0 +1,26 @@
+product_id,product_name,product_category,product_sell_price,product_cost_price
+PROD001,Thousand Cake,Snack,77,32
+PROD002,Take Roll,Dessert,100,33
+PROD003,Power Coffee,Dessert,130,87
+PROD004,Congress Cake,Dessert,152,82
+PROD005,Receive Roll,Beverage,120,47
+PROD006,Start Tea,Dessert,119,85
+PROD007,Other Cake,Dessert,125,77
+PROD008,Speak Muffin,Beverage,122,76
+PROD009,Population Tea,Bakery,90,42
+PROD010,Assume Muffin,Dessert,128,77
+PROD011,As Muffin,Snack,105,82
+PROD012,Little Sandwich,Bakery,73,34
+PROD013,Information Muffin,Beverage,107,38
+PROD014,None Tea,Beverage,73,41
+PROD015,Save Roll,Beverage,67,45
+PROD016,Lay Sandwich,Snack,131,88
+PROD017,Common Roll,Bakery,90,47
+PROD018,Test Coffee,Beverage,149,70
+PROD019,Lot Roll,Bakery,88,45
+PROD020,Something Roll,Dessert,116,41
+PROD021,Least Cake,Beverage,82,52
+PROD022,Worker Roll,Beverage,69,48
+PROD023,Either Muffin,Snack,114,40
+PROD024,Toward Sandwich,Snack,118,84
+PROD025,Dream Cake,Bakery,106,73
